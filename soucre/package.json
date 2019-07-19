@@ -1,0 +1,14 @@
+{
+  "name": "chat_socket",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.347.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1"
+  }
+}
